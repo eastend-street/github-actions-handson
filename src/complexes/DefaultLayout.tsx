@@ -21,7 +21,7 @@ const Header: React.FC = () => {
   return (
     <HeaderOuter>
       <div className="ui-container">
-        <Link to={`${process.env.PUBLIC_URL}/`}>My Great App</Link>
+        <Link to={`${process.env.PUBLIC_URL}/`}>GitHub actions hands on</Link>
       </div>
     </HeaderOuter>
   );

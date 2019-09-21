@@ -19,7 +19,7 @@ const HomePage: React.FC = () => {
       <h1>Welcome to github actions handson!</h1>
       <p>
         Hi!
-        My name is Ginpei Takanashi.
+        My name is Jun Yamada.
         I write JavaScript.
         I make JapaneseSushi.
       </p>
