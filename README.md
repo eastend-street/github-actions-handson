@@ -4,3 +4,4 @@
 - React
 - GitHub actions
 - Jest
+- Firebase
