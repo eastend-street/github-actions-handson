@@ -20,7 +20,7 @@ const HomePage: React.FC = () => {
       <p>
         Hi!
         My name is Jun Yamada.
-        I write JavaScript.
+        I write React.js.
         I make JapaneseSushi.
       </p>
       <p>
