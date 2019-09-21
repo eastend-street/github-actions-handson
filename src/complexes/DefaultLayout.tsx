@@ -38,7 +38,7 @@ const Footer: React.FC = () => {
   return (
     <FooterOuter>
       <div className="ui-container">
-        Copyright &copy; Ginpei Takanashi
+        Copyright &copy; Jun Yamada
       </div>
     </FooterOuter>
   );
